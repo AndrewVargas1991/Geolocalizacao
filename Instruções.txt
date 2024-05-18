@@ -1,0 +1,7 @@
+Instruções de uso do programa Geolocalizador
+
+1- Abra o programa Geolocalizador.py com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+OBS: A localização é obtida através da API chamada IP Info, cujo site oficial é
+https://ipinfo.io
